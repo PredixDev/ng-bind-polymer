@@ -1,0 +1,17 @@
+{
+  "name": "ng-bind-polymer",
+  "main": "ng-bind-polymer.js",
+  "version": "0.0.0",
+  "authors": [
+    "PX"
+  ],
+  "description": "Angular directive for binding with Polymer components.",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
