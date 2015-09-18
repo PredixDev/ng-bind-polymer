@@ -6,7 +6,6 @@
     "PX"
   ],
   "description": "Angular directive for binding with Polymer components.",
-  "license": "MIT",
   "ignore": [
     "**/.*",
     "node_modules",
