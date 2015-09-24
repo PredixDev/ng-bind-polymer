@@ -15,7 +15,7 @@ See sample usage in the Predix Seed app for the deck selector.
 If you use the latest Predix Seed, this is already done for you with the px-deck-selector on the Dashboards view.
 
 1. Install
-	- Add git@github.com:PXc/ng-bind-polymer.git to your bower.json & bower install
+	- Add github.com/PredixDev/ng-bind-polymer.git to your bower.json & bower install
 2. Add to RequireJS config
 	- Add 'ng-bind-polymer': '../bower_components/ng-bind-polymer/ng-bind-polymer' to your config.js
 3. Add as a dependency to your Angular app
